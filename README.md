@@ -1,5 +1,5 @@
 # Meshmerize
-A bot that can solve the maze.
+A bot that can solve the maze. allow
 
 ﻿# Introduction
 
