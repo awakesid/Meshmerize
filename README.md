@@ -1,5 +1,5 @@
 # Meshmerize
-A bot that can solve the maze. git
+A bot that can solve the maze. mooglie
 
 ﻿# Introduction
 
