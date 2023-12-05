@@ -1,8 +1,5 @@
 # Meshmerize
-A bot that can solve the maze. 
-
-﻿# Introduction
-
+**A bot that can solve the maze.**
 Meshmerize is a bot that uses sensors to read the maze and find the shortest path. It is the best project to learn electronics and test your coding skills.
 
 
@@ -22,8 +19,10 @@ You can make anything that can solve a maze with a certain size limit and should
 4. Voltage regulator 3,v,5v,12v
 5. Voltage booster.
 6. Power Supply(lipo 3.7)*2
-7. Tb6612fng dual channel motor driver 
+7. Tb6612fng dual channel motor driver
 
+
+![img](https://github.com/sito-g/Meshmerize/blob/main/images/DSC00250.JPG)
 
 ## Required libraries
 1. Tb6612fng  [sparkfun github](https://github.com/sparkfun/SparkFun_TB6612FNG_Arduino_Library)
