@@ -12,7 +12,7 @@ You can make anything that can solve a maze with a certain size limit and should
 
 ## Our bot
 
-
+![img](https://github.com/sito-g/Meshmerize/blob/main/images/DSC00249.JPG)
 
 ## ELectronics
 
