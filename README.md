@@ -18,7 +18,7 @@ You can make anything that can solve a maze with a certain size limit and should
 3. 8-channel analog IR sensor(QTR)
 4. Voltage regulator 3,v,5v,12v
 5. Voltage booster.
-6. Power Supply(lipo 3.7)*2
+6. Power Supply(li-ion 3.7)*2
 7. Tb6612fng dual channel motor driver
 
 
