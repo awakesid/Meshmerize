@@ -11,15 +11,25 @@ You can make anything that can solve a maze with a certain size limit and should
 
 ![img](https://github.com/sito-g/Meshmerize/blob/main/images/DSC00249.JPG)
 
-## ELectronics
+## Electronics
 
 1. N20 motor 3v, 150 rpm*2
 2. Arduino Nano
 3. 8-channel analog IR sensor(QTR)
-4. Voltage regulator 3,v,5v,12v
+4. Voltage regulator 3v,5v,12v
 5. Voltage booster.
 6. Power Supply(li-ion 3.7)*2
 7. Tb6612fng dual channel motor driver
+
+
+
+   #### Power Supply :-
+The bot is powered by two 3.7V li-ion bateries in series and provides sufficient enough current to power all the components and drive motors smoothly for sufficiently longer time. 
+
+   #### Voltage Regulator :-
+When the robot turns, one motor typically needs to rotate faster than the other to execute the turn. This creates a differential load on the motors. The motor with the higher load may draw more current, potentially causing a voltage drop in the power supply lines. The voltage drop is proportional to the current flowing through the resistance, according to Ohm's Law (V = I * R). In the case of a turning robot, the increased load on one motor can lead to a higher current draw and, consequently, a voltage drop.Voltage drops can impact the performance of the motors. Motors typically have optimal operating voltage ranges, and if the voltage supplied to them drops below this range, it can result in reduced speed, torque, and overall efficiency.The LM2698 is a voltage booster (step-up converter) that can be used to regulate and increase the voltage supplied to the motors. In the context of a turning robot, the voltage booster can help maintain a stable and sufficient voltage level, even when one motor is experiencing a higher load.The voltage booster monitors the input voltage and adjusts the output voltage as needed. This ensures that both motors receive a consistent and adequate voltage supply, even during turns, helping to prevent performance degradation.By using a voltage booster, you can mitigate the impact of voltage drops, providing the motors with the necessary voltage for optimal performance.
+  
+   
 
 
 ![img](https://github.com/sito-g/Meshmerize/blob/main/images/DSC00250.JPG)
