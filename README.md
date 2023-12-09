@@ -22,7 +22,7 @@ You can make anything that can solve a maze with a certain size limit and should
 7. Tb6612fng dual channel motor driver
 
    
-   ### power supply :-
+   ###### power supply :-
    The bot is powered by two 3.7V li-ion bateries in series and provides sufficient enough current to power all the components and drive motors smoothly for sufficiently longer time. 
 
    ### Voltage Regulator :-
